@@ -1,0 +1,8 @@
+# Python3.10 Env
+source /Users/drivera53/Development/python_projects/python3-10Env/bin/activate
+
+# Install Jupyter Notebook
+pip install notebook
+
+# Run
+jupyter notebook
